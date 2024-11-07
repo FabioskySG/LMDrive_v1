@@ -1,0 +1,52 @@
+# Vision encoder requirements
+# torch==2.0.1
+# torchvision
+pyyaml
+scikit-image
+opencv-python
+tqdm
+# timm
+
+# LAVIS requirements
+contexttimer
+decord
+einops>=0.4.1
+fairscale==0.4.4
+ftfy
+iopath
+ipython
+omegaconf
+opencv-python-headless==4.5.5.64
+opendatasets
+packaging
+pandas
+plotly
+pre-commit
+pycocoevalcap
+pycocotools
+python-magic
+scikit-image
+sentencepiece
+spacy==3.7.5
+fastapi==0.110
+streamlit
+# tqdm
+huggingface_hub==0.24.7
+transformers==4.31.0
+diffusers==0.15.0
+webdataset
+peft
+
+# CARLA Requirements
+# carla
+
+py-trees==0.8.3
+tabulate
+shapely
+ephem
+tensorboardX
+# importlib
+dictor
+
+easydict
+pygame
